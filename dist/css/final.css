@@ -608,7 +608,7 @@ video {
 
 .rounded-full {
     border-radius: 9999px;
-    z-index: 30;
+    z-index: 90;
     position: relative;
 }
 
