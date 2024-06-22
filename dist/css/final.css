@@ -607,7 +607,9 @@ video {
 }
 
 .rounded-full {
-    border-radius: 9999px
+    border-radius: 9999px;
+    z-index: 30;
+    position: relative;
 }
 
 .rounded-md {
